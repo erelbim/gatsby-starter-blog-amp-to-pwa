@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog (AMP to PWA)`,
+    title: `Emre`,
     author: `Tomoyuki Kashiro`,
     description: `A starter blog (AMP to PWA) demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-amp-to-pwa.netlify.com/`,
